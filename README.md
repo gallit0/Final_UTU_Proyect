@@ -1,6 +1,6 @@
-Final UTU proyect
-AUTHORS:
-Gerónimo García
-Mateo Gallo
-Gastón Pérez
-Damián Salvano 
+Final UTU proyect done in 2021 <br>
+AUTHORS:<br>
+Gerónimo García<br>
+Mateo Gallo<br>
+Gastón Pérez<br>
+Damián Salvano<br>
